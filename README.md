@@ -7,7 +7,7 @@
 
 Note : 
 - To avoid permission errors when installing globally, Node.js (NPM) recommends installing Node.js with a Node version manager (NVM) on Mac and Linux Operating systems
-- When the NVM script finishes downloading you will receive a completion message that will instruct you to close and reopen your terminal to begin using NVM
+- When the NVM script finishes downloading you will receive a completion message that will instruct you to **close and reopen your terminal to begin using NVM**
 
 **2. Verify NVM Installation**
 

@@ -48,3 +48,7 @@ Note : Some warnings or conflicts, may be listed this is typical and should work
 ```truffle version```
 
 ![NVM](https://github.com/LifnaJos/installing-truffle-on-ubuntu-22.04/blob/main/images/Screenshot%20from%202023-09-25%2021-52-19.png)
+
+## Acknowledgement
+* [Truffle Suite Installation on Ubuntu 22.04](https://github.com/orgs/trufflesuite/discussions/5732) helped me to fix the errors in installing Truffle in Ubuntu
+* [Basic Writing & Formatting Syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)

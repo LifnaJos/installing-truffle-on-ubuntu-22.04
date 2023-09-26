@@ -3,6 +3,8 @@
 
 ```wget -qO- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.2/install.sh | bash```
 
+![NVM](https://github.com/LifnaJos/installing-truffle-on-ubuntu-22.04/blob/main/images/Screenshot%20from%202023-09-26%2009-48-29.png)
+
 Note : 
 - To avoid permission errors when installing globally, Node.js (NPM) recommends installing Node.js with a Node version manager (NVM) on Mac and Linux Operating systems
 - When the NVM script finishes downloading you will receive a completion message that will instruct you to close and reopen your terminal to begin using NVM

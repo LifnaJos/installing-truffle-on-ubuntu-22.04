@@ -48,5 +48,6 @@ Note : Some warnings or conflicts, may be listed this is typical and should work
 ## Acknowledgement
 * [Truffle Suite Installation on Ubuntu 22.04](https://github.com/orgs/trufflesuite/discussions/5732) helped me to fix the errors in installing Truffle in Ubuntu
 * [Guide to Truffle the gateway to Full Stack Blockchain Development](https://trufflesuite.com/guides/ultimate-guide-to-truffle-the-gateway-to-full-stack-blockchain-development/)
-* [YouTube Video](https://www.youtube.com/watch?v=pblVFU0mytI)
+* [YouTube Video by Kingsley Arinze](https://www.youtube.com/watch?v=pblVFU0mytI) explaining the steps for deploying a project using Truffle
+* [Visual Studio - Solc version Error](https://forum.moralis.io/t/visual-studio-code-solc-version-error/313)
 * [Basic Writing & Formatting Syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
